@@ -10,4 +10,4 @@ Here are some ideas to get you started:-->
 - 💬 WSL has recently got my attention!
 - 📫 You can reach me on Twitter
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I can't believe I'm getting paid for doing what I love!!
+- ⚡ Fun fact: I started my career at the age of 27
