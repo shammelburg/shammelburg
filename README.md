@@ -15,7 +15,7 @@
 ### Hey!
 My name is Sander Hammelburg and I'm a software developer. 
 
-I started my web development career with ASP.NET/C#, creating WebForms, MVC applications and Web APIs. After learing these technologies, I jumped on the SPA framework train and added Angular. Lately I'm using Node.js/JavaScript for projects which I feel is a prefect combination with Angular and it's my preferred development stack.   
+I started my web development career with ASP.NET/C#, creating WebForms, MVC applications and Web APIs. After learing these technologies, I started using Angular.js 1.x and then moved onto Angular. Lately I've been using Node.js/JavaScript for projects which I feel is the prefect combination together with Angular, you can't beat working with JavaScript and it's my preferred development stack.   
 
 
 <!-- https://github.com/anuraghazra/github-readme-stats#demo
