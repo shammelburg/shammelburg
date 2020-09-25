@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/Tools-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Tools-Azure_Functions-informational?style=flat&logo=azure-functions&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=3498db)
 
 ### Hey!
