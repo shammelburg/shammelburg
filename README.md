@@ -1,3 +1,8 @@
+### Hey!
+My name is Sander Hammelburg and I'm a software developer. 
+
+I started my web development career with ASP.NET/C#, creating WebForms, MVC applications and Web APIs. After learing these technologies, I started using Angular.js 1.x and then moved onto Angular. Lately I've been using Node.js/JavaScript for projects which I feel is the prefect combination together with Angular, you can't beat working with JavaScript and it's my preferred development stack.   
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flats&logo=windows&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Shell-WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3498db)
@@ -12,12 +17,6 @@
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=3498db)
 <!-- ![](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=3498db) -->
 <!-- ![](https://img.shields.io/badge/Tools-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=3498db) -->
-
-### Hey!
-My name is Sander Hammelburg and I'm a software developer. 
-
-I started my web development career with ASP.NET/C#, creating WebForms, MVC applications and Web APIs. After learing these technologies, I started using Angular.js 1.x and then moved onto Angular. Lately I've been using Node.js/JavaScript for projects which I feel is the prefect combination together with Angular, you can't beat working with JavaScript and it's my preferred development stack.   
-
 
 <!-- https://github.com/anuraghazra/github-readme-stats#demo
 <a href="https://github.com/shammelburg">
