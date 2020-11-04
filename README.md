@@ -13,6 +13,7 @@ Lately I've been using Node/Express, Angular, WSL2, Docker and Azure! This is my
 ![](https://img.shields.io/badge/Platform-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Platform-.NET_Core-informational?style=flat&logo=.net&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3498db)
