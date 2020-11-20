@@ -1,9 +1,11 @@
 ### Hey!
 My name is Sander Hammelburg and I'm a software developer. 
 
-I started my web development career with ASP.NET/C#, creating WebForms, MVC applications and Web APIs. After learing these technologies, I started using Angular.js 1.x and then moved onto Angular. 
+I started my web development career with ASP.NET/C#, creating WebForms, MVC applications and Web APIs. After learing these technologies, I started using Angular.js 1.x and then moved onto Angular. I also took a liking to React.js and find it a lot of fun and great alternative.  
 
-Lately I've been using Node/Express, Angular, WSL2, Docker and Azure! This is my preferred development stack/env/tools.   
+Currently I'm using Node/Express (REST), Angular, WSL2, Docker and Azure! This is my preferred development stack/env/tools.   
+
+I'm currently learning GraphQL and preparing for *[OpenJS Node.js Services Developer](https://training.linuxfoundation.org/certification/jsnsd/)* certification.
 
 (JavaScript all the way! :smile:)
 
@@ -12,13 +14,13 @@ Lately I've been using Node/Express, Angular, WSL2, Docker and Azure! This is my
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Platform-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Platform-.NET_Core-informational?style=flat&logo=.net&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Tools-Azure_Functions-informational?style=flat&logo=azure-functions&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Serverless-Azure_Functions-informational?style=flat&logo=azure-functions&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=3498db)
 <!-- ![](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=3498db) -->
 <!-- ![](https://img.shields.io/badge/Tools-SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=3498db) -->
