@@ -3,7 +3,7 @@ My name is Sander Hammelburg and I'm a software developer.
 
 I started my web development career with ASP.NET/C#, creating WebForms, MVC applications and Web APIs. After learing these technologies, I started using Angular.js 1.x and then moved onto Angular.  
 
-Now I'm using Node/Express (REST), Angular, RxJS, WSL2, Docker and Azure! This is my preferred development stack/env/tools.   
+My preferred development stack/env/tools are Node/Express (REST), Angular, RxJS, WSL2, Docker and Azure!   
 
 I'm currently learning GraphQL and preparing for *[OpenJS Node.js Services Developer](https://training.linuxfoundation.org/certification/jsnsd/)* certification.
 
