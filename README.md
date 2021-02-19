@@ -5,8 +5,6 @@ I started my web development career with ASP.NET/C#, creating WebForms, MVC appl
 
 My preferred development stack/env/tools are Node/Express (REST), Angular, RxJS, WSL2, Docker and Azure!   
 
-I'm currently learning GraphQL and preparing for *[OpenJS Node.js Services Developer](https://training.linuxfoundation.org/certification/jsnsd/)* certification.
-
 (So much JavaScript! :heart:)
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flats&logo=windows&logoColor=white&color=3498db)
@@ -14,6 +12,7 @@ I'm currently learning GraphQL and preparing for *[OpenJS Node.js Services Devel
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Platform-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Platform-.NET_Core-informational?style=flat&logo=.net&logoColor=white&color=3498db)
+![](https://img.shields.io/badge/Framework-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Library-RxJS-informational?style=flat&logo=reactivex&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3498db)
