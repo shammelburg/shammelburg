@@ -9,6 +9,8 @@ Who can say they're getting paid to have fun for a living... that's what develop
 
 From .NET / C# to Node.js / JavaScript... finding the most enjoyable technologies and running with it!
 
+Always learning 😃
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flats&logo=windows&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Shell-WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3498db)
