@@ -1,11 +1,13 @@
 ### Hey!
-My name is Sander Hammelburg and I'm a software developer. 
+<!-- I'm Sander Hammelburg and I'm a software developer. -->
 
-I started my web development career with ASP.NET/C#, creating WebForms, MVC applications and Web APIs. After learing these technologies, I started using Angular.js 1.x and then moved onto Angular.  
+<!-- I started my web development career with ASP.NET/C#, creating WebForms, MVC applications and Web APIs. After learing these technologies, I started using Angular.js 1.x and then moved onto Angular.
 
-My preferred development stack/env/tools are Node/Express (REST), Angular, RxJS, WSL2, Docker and Azure!   
+My preferred development stack/env/tools are Node/Express (REST), Angular, RxJS, WSL2, Docker and Azure!  -->
 
-(So much JavaScript! :heart:)
+Who can say they're getting paid to have fun for a living... that's what developing software does for me!  
+
+From .NET / C# to Node.js / JavaScript... finding the most enjoyable technologies and running with it!
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flats&logo=windows&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Shell-WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=3498db)
