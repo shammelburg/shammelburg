@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Serverless-Azure_Functions-informational?style=flat&logo=azure-functions&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=3498db)
 
-### Hey! 👍
+### Hey! 👋
 I'm Sander Hammelburg and I'm a software developer using Node, Angular, ASP.NET Core, Docker...
 
 <!-- I started my web development career with ASP.NET/C#, creating WebForms, MVC applications and Web APIs. After learing these technologies, I started using Angular.js 1.x and then moved onto Angular.
@@ -24,7 +24,7 @@ Who can say they're getting paid to have fun for a living... that's what develop
 
 From .NET / C# to Node.js / JavaScript... finding the most enjoyable technologies and running with it! -->
 
-I find myself constantly learning about all things JavaScript and Cloud Native technologies.
+I find myself constantly learning about all things JavaScript and Cloud Native.
 
 😃
 
