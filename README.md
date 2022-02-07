@@ -3,7 +3,6 @@
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Platform-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Platform-.NET_Core-informational?style=flat&logo=.net&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Framework-GraphQL-informational?style=flat&logo=graphql&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Library-RxJS-informational?style=flat&logo=reactivex&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3498db)
