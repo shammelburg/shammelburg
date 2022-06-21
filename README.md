@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=3498db)
 
 ### Hey! 👋
-I'm Sander Hammelburg and I'm a software developer using Node, Angular, ASP.NET Core, Docker...
+I'm Sander Hammelburg and I'm a web developer using Node, Angular, ASP.NET Core, Docker...
 
 <!-- I started my web development career with ASP.NET/C#, creating WebForms, MVC applications and Web APIs. After learing these technologies, I started using Angular.js 1.x and then moved onto Angular.
 
