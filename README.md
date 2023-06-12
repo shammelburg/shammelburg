@@ -1,24 +1,22 @@
 <!-- ![](https://img.shields.io/badge/OS-Windows-informational?style=flats&logo=windows&logoColor=white&color=3498db) -->
 <!-- ![](https://img.shields.io/badge/Shell-WSL2-informational?style=flat&logo=ubuntu&logoColor=white&color=3498db) -->
 <!-- ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=3498db) -->
-![](https://img.shields.io/badge/Platform-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=3498db)
+<!-- ![](https://img.shields.io/badge/Platform-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=3498db) -->
 ![](https://img.shields.io/badge/Platform-.NET_Core-informational?style=flat&logo=.net&logoColor=white&color=3498db)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Library-RxJS-informational?style=flat&logo=reactivex&logoColor=white&color=3498db)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3498db)
+<!-- ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3498db) -->
+<!-- ![](https://img.shields.io/badge/Library-RxJS-informational?style=flat&logo=reactivex&logoColor=white&color=3498db) -->
+<!-- ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3498db) -->
 <!-- ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=3498db) -->
 <!-- ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3498db) -->
 <!-- ![](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=3498db) -->
 <!-- ![](https://img.shields.io/badge/Serverless-Azure_Functions-informational?style=flat&logo=azure-functions&logoColor=white&color=3498db) -->
 <!-- ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=3498db) -->
 
-### Hey! 👋
-I'm Sander and I'm a web developer.
+### Hey! 👋👋
+I develop web applications using .NET and Angular for most of my projects. 
 
-I find myself constantly learning about all things JavaScript and Cloud Native.
-
-😃
+<!-- I consider myself a lifelong learner. -->
 
 
 <!-- ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=3498db) -->
