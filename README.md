@@ -14,7 +14,12 @@
 <!-- ![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=3498db) -->
 
 ### Hey! 👋👋
-I develop web applications using .NET and Angular for most of my projects. 
+I develop cloud native software using,
+
+- Angular
+- .NET
+- Azure
+- Docker
 
 <!-- I consider myself a lifelong learner. -->
 
